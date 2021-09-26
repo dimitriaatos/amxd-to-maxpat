@@ -1,0 +1,11 @@
+{
+  "name": "amxd-to-maxpat",
+  "version": "1.0.0",
+  "description": "Converting a M4L file to a Max patch",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Dimitri Aatos Ellinas",
+  "license": "ISC",
+  "dependencies": {}
+}
